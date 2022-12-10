@@ -1,1 +1,1 @@
-zero_day
+It prints the core operating system name
